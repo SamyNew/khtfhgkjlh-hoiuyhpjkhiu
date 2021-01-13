@@ -27,7 +27,7 @@ https://img.shields.io/static/v1?label=%3Cgodase%3E&message=%3Cinferno%3E&color=
 https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F??style=flat-square&logo=appveyor&logo=instagram&logoColor=white)](https://www.instagram.com/samy_nandes_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/samy_nandes_/)
 
 
 
