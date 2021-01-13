@@ -20,3 +20,17 @@ https://img.shields.io/static/v1?label=%3Cgodase%3E&message=%3Cinferno%3E&color=
   
   
   [! [Instagram] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white%3Cimg%20src=%22https://www.instagram.com/samy_nandes_/%22%20/%3E)](https://www.instagram.com/samy_nandes_/)
+  
+  
+ [![Instagram Badge] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/samy_nandes_/)](https://www.instagram.com/samy_nandes_/)
+
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samy_nandes_/)
+
+
+
+
+
+
